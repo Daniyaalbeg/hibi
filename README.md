@@ -17,7 +17,6 @@ To Install and run do the following:
 - [Zod] - For creating the schema and validation
 - [react-hook-form] - To handle the form state.
 - [@react-native-community/datetimepicker"] - For the native date picker
--
 
 ## Additional Questions
 
